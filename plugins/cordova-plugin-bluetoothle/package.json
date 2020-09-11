@@ -1,0 +1,71 @@
+{
+  "_from": "git+https://github.com/randdusing/BluetoothLE.git",
+  "_id": "cordova-plugin-bluetoothle@4.5.14",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/cordova-plugin-bluetoothle",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/randdusing/BluetoothLE",
+    "rawSpec": "https://github.com/randdusing/BluetoothLE",
+    "saveSpec": "git+https://github.com/randdusing/BluetoothLE.git",
+    "fetchSpec": "https://github.com/randdusing/BluetoothLE.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/randdusing/BluetoothLE.git#2a899e6047cf11695c5cd79ace3aa82d4bdce097",
+  "_spec": "https://github.com/randdusing/BluetoothLE",
+  "_where": "C:\\Users\\giorgi.kvavilashvili\\Desktop\\billing_phonegap",
+  "author": {
+    "name": "Rand Dusing"
+  },
+  "bugs": {
+    "url": "https://github.com/randdusing/cordova-plugin-bluetoothle/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-bluetoothle",
+    "platforms": [
+      "android",
+      "ios",
+      "osx",
+      "windows"
+    ]
+  },
+  "deprecated": false,
+  "description": "Use the Bluetooth Low Energy plugin to connect your Cordova app to new Bluetooth devices like heart rate monitors, thermometers, etc...",
+  "engines": {
+    "cordovaDependencies": {
+      "4.3.0": {
+        "cordova": ">=5.0.0",
+        "cordova-android": ">=5.0.0"
+      },
+      "5.0.0": {
+        "cordova": ">=100"
+      }
+    }
+  },
+  "homepage": "https://github.com/randdusing/cordova-plugin-bluetoothle#readme",
+  "keywords": [
+    "bluetooth",
+    "bluetoothle",
+    "bluetooth le",
+    "cordova",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-windows"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-bluetoothle",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/randdusing/cordova-plugin-bluetoothle.git"
+  },
+  "types": "./types/index.d.ts",
+  "version": "4.5.14"
+}
